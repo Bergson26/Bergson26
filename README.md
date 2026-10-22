@@ -12,9 +12,9 @@ Chaque projet ici est reproductible — schéma, commandes, résultats réels.
 
 ### Projets phares
 
-**[My-Home-SOC](https://github.com/Bergson26/My-home-SOC)** — SOC & détection
-Lab Wazuh / OpenSearch. 347 tentatives SSH détectées et bloquées.
-Règles de détection personnalisées, corrélation d'événements, Fail2ban.
+**[My-Home-SOC](https://github.com/Bergson26/My-home-SOC)**
+Lab Wazuh / OpenSearch / Docker — conception de règles de détection
+personnalisées, qualification d'alertes, investigation d'anomalies.
 
 **[VulnPy-Scanner](https://github.com/Bergson26/VulnPy-Scanner)** — Gestion des vulnérabilités
 Scanner CLI Nmap × API NIST NVD. Automatise la reconnaissance réseau
