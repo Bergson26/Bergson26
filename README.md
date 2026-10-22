@@ -1,6 +1,6 @@
 # Bergson Jean-Michel Aquereburu
 
-**Cybersécurité — SOC · GRC · Gestion des vulnérabilités · DevSecOps · OT**
+**Cybersécurité — SOC · GRC · Gestion des vulnérabilités · DevSecOps · OT*· IT*
 
 En recherche d'alternance.
 
